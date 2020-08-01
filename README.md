@@ -1,10 +1,10 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-#Readme
+# Readme
 Тестовое задание https://github.com/fugr-ru/frontend-javascript-test
 
 В проекты использовались следующий библиотеки:
 * lodash - для сортировки массива
-##Run
+## Run
 
 `$ git clone https://github.com/Lolodin/React`
 
@@ -14,7 +14,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 Откройте браузер по адресу http://localhost:3000/ 
 
-##Run docker
+## Run docker
 
 `$ git clone https://github.com/Lolodin/React`
 
