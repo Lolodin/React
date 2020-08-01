@@ -15,6 +15,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 Откройте браузер по адресу http://localhost:3000/ 
 
 ##Run docker
+
 `$ git clone https://github.com/Lolodin/React`
 
 `$ cd React`
