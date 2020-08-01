@@ -1,0 +1,46 @@
+.mytable {
+    width: 700px;
+    margin: auto;
+
+
+}
+table {
+    border-collapse: collapse;
+}
+th, td {
+    padding: 6px;
+    border: 1px solid black;
+}
+th:nth-child(2) {
+    width: 40px;
+}
+th:nth-child(3) {
+    width: 110px;
+}
+th:nth-child(4) {
+    width: 110px;
+}
+th:nth-child(6) {
+    width: 120px;
+}
+
+.pagination {
+    display:inline-block;
+    padding: 2px;
+    color: blue;
+}
+p:hover {
+    cursor: pointer;
+}
+.add {
+    margin-left:0px;
+}
+.usercard {
+    margin: auto;
+    height: 350px;
+    width: 400px;
+    border: 1px solid black;
+}
+.find > input{
+padding-right: 60px;
+}
